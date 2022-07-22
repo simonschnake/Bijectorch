@@ -1,4 +1,4 @@
-# Bijectorch
+# BijecTorch
 Bijectors (differentiable and injective function defined on an open subset of R^n) in PyTorch
 
 The goal of this project is to implement bijective transformations in PyTorch. 
